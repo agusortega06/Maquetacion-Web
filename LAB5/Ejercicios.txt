@@ -1,0 +1,59 @@
+﻿Laboratorio 1 :
+
+Paso 1 :
+
+Se generará una barra de navegación fija, con los siguientes ítems:
+
+
+
+
+Paso 2:
+
+Luego se generará un main que deberá estar a su margen derecha.
+
+
+Paso 3:
+
+El ejercicio debe quedar de la siguiente manera
+
+
+
+
+Laboratorio 2 :
+Paso 1:
+
+Con el ejemplo visto en la clase de barras de navegación , clase 3, la idea es hacer un menú desplegable simple como en la referencia.
+
+
+
+
+Laboratorio 3:
+Paso 1 :
+
+Se generará un buscador que se extenderá a toda la pantalla
+
+
+Paso 2:
+
+El input de búsqueda tendrá una imagen de fondo en forma de lupa
+
+pueden utilizar la página www.iconfinder.com
+
+
+Paso 3:
+
+Se utilizará display , justify-content y align-items para poder ubicar el input en el centro de la pantalla
+
+Paso 4:
+
+El código del html será este:
+
+Paso 5:
+
+La referencia se verá de esta forma:
+
+Laboratorio 4:
+Paso 1: Al ejercicio anterior le sumamos :focus y el input deberá cambiar al hacerle foco de esta manera
+Paso 2: Se puede si se desea cambiar la imagen por otra en el mismo estado
+Paso 3: Referencia cambiando la imagen
+
